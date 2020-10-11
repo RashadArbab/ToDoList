@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/http//:RashadArbab.github.io/ToDoList/static/css/main.cf1e45ec.chunk.css",
-    "main.js": "/http//:RashadArbab.github.io/ToDoList/static/js/main.9e8fcfa1.chunk.js",
-    "main.js.map": "/http//:RashadArbab.github.io/ToDoList/static/js/main.9e8fcfa1.chunk.js.map",
+    "main.css": "/http//:RashadArbab.github.io/ToDoList/static/css/main.8e6fa89b.chunk.css",
+    "main.js": "/http//:RashadArbab.github.io/ToDoList/static/js/main.0a2f903b.chunk.js",
+    "main.js.map": "/http//:RashadArbab.github.io/ToDoList/static/js/main.0a2f903b.chunk.js.map",
     "runtime-main.js": "/http//:RashadArbab.github.io/ToDoList/static/js/runtime-main.a8eaf567.js",
     "runtime-main.js.map": "/http//:RashadArbab.github.io/ToDoList/static/js/runtime-main.a8eaf567.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/http//:RashadArbab.github.io/ToDoList/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.01d7a7cd.chunk.js": "/http//:RashadArbab.github.io/ToDoList/static/js/2.01d7a7cd.chunk.js",
     "static/js/2.01d7a7cd.chunk.js.map": "/http//:RashadArbab.github.io/ToDoList/static/js/2.01d7a7cd.chunk.js.map",
     "index.html": "/http//:RashadArbab.github.io/ToDoList/index.html",
-    "precache-manifest.a1abe60b23d60a6d0a3ff7af936e13d2.js": "/http//:RashadArbab.github.io/ToDoList/precache-manifest.a1abe60b23d60a6d0a3ff7af936e13d2.js",
+    "precache-manifest.d5af62f52c9ab1db1a926a0b2b011366.js": "/http//:RashadArbab.github.io/ToDoList/precache-manifest.d5af62f52c9ab1db1a926a0b2b011366.js",
     "service-worker.js": "/http//:RashadArbab.github.io/ToDoList/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/http//:RashadArbab.github.io/ToDoList/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.cf1e45ec.chunk.css.map": "/http//:RashadArbab.github.io/ToDoList/static/css/main.cf1e45ec.chunk.css.map",
+    "static/css/main.8e6fa89b.chunk.css.map": "/http//:RashadArbab.github.io/ToDoList/static/css/main.8e6fa89b.chunk.css.map",
     "static/js/2.01d7a7cd.chunk.js.LICENSE.txt": "/http//:RashadArbab.github.io/ToDoList/static/js/2.01d7a7cd.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/http//:RashadArbab.github.io/ToDoList/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.a8eaf567.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.01d7a7cd.chunk.js",
-    "static/css/main.cf1e45ec.chunk.css",
-    "static/js/main.9e8fcfa1.chunk.js"
+    "static/css/main.8e6fa89b.chunk.css",
+    "static/js/main.0a2f903b.chunk.js"
   ]
 }
